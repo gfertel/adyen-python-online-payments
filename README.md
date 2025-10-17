@@ -21,7 +21,7 @@ The Demo leverages Adyen's API Library for Python [GitHub](https://github.com/Ad
 1. Clone this repo
 
 ```
-git clone https://github.com/adyen-examples/adyen-python-online-payments.git
+git clone https://github.com/gfertel/adyen-python-online-payments.git
 ```
 
 2. Run `source ./setup.sh` to:
