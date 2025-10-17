@@ -48,7 +48,7 @@ def get_adyen_hmac_key():
 def get_supported_integration():
     return ['dropin', 'card', 'ideal', 'klarna', 'directEbanking', 'alipay', 'boletobancario',
             'sepadirectdebit', 'dotpay', 'giropay', 'ach', 'paypal', 'applepay',
-            'klarna_paynow', 'klarna', 'klarna_account']
+            'klarna_paynow', 'klarna', 'klarna_account', 'affirm']
 
 
     # Check to make sure variables are set
